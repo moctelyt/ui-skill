@@ -1,0 +1,32 @@
+/* Starter example: replace with tokens selected for THIS project.
+   Use existing design tokens instead when a project has an established system. */
+:root {
+  color-scheme: light;
+  --ui-bg: #f5f7fa;
+  --ui-surface: #ffffff;
+  --ui-text: #162033;
+  --ui-muted: #49566a;
+  --ui-accent: #174ea6;
+  --ui-on-accent: #ffffff;
+  --ui-border: #d5dce5;
+  --ui-font: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ui-space-1: .25rem;
+  --ui-space-2: .5rem;
+  --ui-space-3: .75rem;
+  --ui-space-4: 1rem;
+  --ui-space-6: 1.5rem;
+  --ui-space-8: 2rem;
+  --ui-radius-sm: .5rem;
+  --ui-radius-md: .875rem;
+  --ui-radius-lg: 1.25rem;
+  --ui-focus-ring: 0 0 0 3px color-mix(in srgb, var(--ui-accent) 35%, transparent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important;
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}

@@ -1,0 +1,1216 @@
+{
+  "version": "1.0.0",
+  "total": 32,
+  "recipes": [
+    {
+      "id": "aurora-ai",
+      "name": "Aurora AI Studio",
+      "priority": 1,
+      "best_for": "AI app or agent workspace",
+      "style_mix": "Dark Minimalism + Aurora UI + Bento UI",
+      "tags": [
+        "ai",
+        "chat",
+        "agent",
+        "assistant",
+        "technology",
+        "saas",
+        "startup",
+        "developer"
+      ],
+      "moods": [
+        "modern",
+        "futuristic",
+        "premium",
+        "dark"
+      ],
+      "palette": {
+        "bg": "#090C18",
+        "surface": "#161B2E",
+        "text": "#F5F7FF",
+        "muted": "#B8C3DA",
+        "accent": "#A8B7FF",
+        "border": "#394159"
+      },
+      "typography": "Sans-serif; restrained monospaced technical labels",
+      "layout": "Bento overview plus split chat workspace",
+      "motion": "Subtle aurora behind hero; minimal motion",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "quiet-enterprise",
+      "name": "Quiet Enterprise",
+      "priority": 2,
+      "best_for": "B2B SaaS, admin and CRM",
+      "style_mix": "Professional Minimalism + Modular Grid + Card UI",
+      "tags": [
+        "dashboard",
+        "saas",
+        "crm",
+        "b2b",
+        "enterprise",
+        "admin",
+        "analytics",
+        "business",
+        "productivity"
+      ],
+      "moods": [
+        "clean",
+        "professional",
+        "serious",
+        "trustworthy",
+        "minimal"
+      ],
+      "palette": {
+        "bg": "#F5F7FA",
+        "surface": "#FFFFFF",
+        "text": "#162033",
+        "muted": "#49566A",
+        "accent": "#174EA6",
+        "border": "#D5DCE5"
+      },
+      "typography": "Neutral sans-serif with tabular numbers",
+      "layout": "Sidebar and flexible dense card grid",
+      "motion": "Functional 150–220 ms transitions",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "glass-mobile",
+      "name": "Floating Glass",
+      "priority": 3,
+      "best_for": "Mobile apps and lightweight tools",
+      "style_mix": "Liquid Glass + Soft UI + Tabbed Interface",
+      "tags": [
+        "mobile",
+        "app",
+        "productivity",
+        "personal",
+        "consumer",
+        "ios",
+        "utility"
+      ],
+      "moods": [
+        "glass",
+        "modern",
+        "smooth",
+        "light",
+        "premium"
+      ],
+      "palette": {
+        "bg": "#E8ECF7",
+        "surface": "#FFFFFF",
+        "text": "#1A2740",
+        "muted": "#44516B",
+        "accent": "#244EAE",
+        "border": "#9EADC7"
+      },
+      "typography": "Friendly system sans-serif",
+      "layout": "Floating bottom navigation with high-opacity fallback",
+      "motion": "Light layered transitions; honor reduced motion",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "editorial-agency",
+      "name": "Editorial Agency",
+      "priority": 4,
+      "best_for": "Agencies and professional portfolios",
+      "style_mix": "Editorial Design + Oversized Typography + Asymmetric Layout",
+      "tags": [
+        "agency",
+        "portfolio",
+        "consulting",
+        "studio",
+        "marketing",
+        "services",
+        "design",
+        "creative"
+      ],
+      "moods": [
+        "editorial",
+        "premium",
+        "elegant",
+        "minimal",
+        "bold"
+      ],
+      "palette": {
+        "bg": "#F6F2EB",
+        "surface": "#FFFFFF",
+        "text": "#24211E",
+        "muted": "#605B56",
+        "accent": "#8B2F24",
+        "border": "#D7CDC1"
+      },
+      "typography": "Expressive serif headline; readable sans body",
+      "layout": "Oversized hero and case-study story grid",
+      "motion": "Reveal case studies with light scroll motion",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "warm-commerce",
+      "name": "Warm Commerce",
+      "priority": 5,
+      "best_for": "D2C ecommerce and lifestyle brands",
+      "style_mix": "Warm Minimal UI + Card-Based Layout + Editorial Photography",
+      "tags": [
+        "ecommerce",
+        "commerce",
+        "shop",
+        "store",
+        "retail",
+        "fashion",
+        "lifestyle",
+        "product"
+      ],
+      "moods": [
+        "warm",
+        "friendly",
+        "premium",
+        "minimal",
+        "calm"
+      ],
+      "palette": {
+        "bg": "#FAF5EE",
+        "surface": "#FFFFFF",
+        "text": "#262220",
+        "muted": "#615C57",
+        "accent": "#8A3C28",
+        "border": "#E4D9CD"
+      },
+      "typography": "Friendly sans with gentle editorial display type",
+      "layout": "Product cards, clear filters and accessible checkout",
+      "motion": "Subtle product-card feedback; avoid distraction",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "playful-learning",
+      "name": "Playful Learning",
+      "priority": 6,
+      "best_for": "Kids education and early learning",
+      "style_mix": "Claymorphism + Kawaii UI + Gamified UI",
+      "tags": [
+        "kids",
+        "children",
+        "education",
+        "learning",
+        "school",
+        "edtech",
+        "nursery",
+        "game"
+      ],
+      "moods": [
+        "playful",
+        "cute",
+        "colorful",
+        "friendly",
+        "illustrated"
+      ],
+      "palette": {
+        "bg": "#FFF6E8",
+        "surface": "#FFFFFF",
+        "text": "#2D2345",
+        "muted": "#5E536E",
+        "accent": "#6645A7",
+        "border": "#D7C5EC"
+      },
+      "typography": "Rounded sans-serif with clear generous sizing",
+      "layout": "Large targets and playful progress cards",
+      "motion": "Short rewarding animations with quiet mode",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "neobrutal-launch",
+      "name": "Bold Neo-Brutalist Launch",
+      "priority": 7,
+      "best_for": "Startup and playful campaign landing pages",
+      "style_mix": "Neo-Brutalism + Typography-First UI + Hard-Shadow UI",
+      "tags": [
+        "landing",
+        "startup",
+        "campaign",
+        "community",
+        "creative",
+        "event",
+        "marketing"
+      ],
+      "moods": [
+        "bold",
+        "playful",
+        "vivid",
+        "experimental",
+        "bright"
+      ],
+      "palette": {
+        "bg": "#FFF5C9",
+        "surface": "#FFFFFF",
+        "text": "#171717",
+        "muted": "#383838",
+        "accent": "#512A9E",
+        "border": "#171717"
+      },
+      "typography": "Heavy display sans-serif; highly readable body",
+      "layout": "Big headers and simple heavy-bordered cards",
+      "motion": "Sharp state changes; preserve keyboard focus",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "wellness-calm",
+      "name": "Calm Wellness",
+      "priority": 8,
+      "best_for": "Wellness and mindful consumer products",
+      "style_mix": "Calm Wellness UI + Organic UI + Pastel UI",
+      "tags": [
+        "health",
+        "wellness",
+        "fitness",
+        "meditation",
+        "therapy",
+        "care",
+        "lifestyle"
+      ],
+      "moods": [
+        "calm",
+        "gentle",
+        "organic",
+        "nature",
+        "pastel"
+      ],
+      "palette": {
+        "bg": "#F0F5F0",
+        "surface": "#FFFFFF",
+        "text": "#203C33",
+        "muted": "#486056",
+        "accent": "#235C49",
+        "border": "#CBDACF"
+      },
+      "typography": "Humanist sans-serif and relaxed hierarchy",
+      "layout": "Spacious modules and gentle journey steps",
+      "motion": "Subtle easing, no constant animation",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "fintech-trust",
+      "name": "Fintech Trust",
+      "priority": 9,
+      "best_for": "Finance apps and payment administration",
+      "style_mix": "High-Contrast UI + Corporate Professional UI + Dashboard Layout",
+      "tags": [
+        "fintech",
+        "finance",
+        "bank",
+        "payments",
+        "billing",
+        "invoice",
+        "money",
+        "analytics"
+      ],
+      "moods": [
+        "trustworthy",
+        "serious",
+        "clean",
+        "secure",
+        "minimal"
+      ],
+      "palette": {
+        "bg": "#F3F7FA",
+        "surface": "#FFFFFF",
+        "text": "#102A3B",
+        "muted": "#466170",
+        "accent": "#00547C",
+        "border": "#CFDEE5"
+      },
+      "typography": "Legible sans-serif, clear numerals",
+      "layout": "Balance summary with tables and transaction details",
+      "motion": "Reduce decoration; immediate status feedback",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "data-operations",
+      "name": "Data Operations",
+      "priority": 10,
+      "best_for": "Operational reporting and command centers",
+      "style_mix": "Dark Mode UI + Data-Dense Layout + Command-Center Layout",
+      "tags": [
+        "dashboard",
+        "operations",
+        "monitoring",
+        "admin",
+        "analytics",
+        "security",
+        "developer",
+        "devops"
+      ],
+      "moods": [
+        "technical",
+        "dark",
+        "dense",
+        "focused",
+        "professional"
+      ],
+      "palette": {
+        "bg": "#111A23",
+        "surface": "#1C2A36",
+        "text": "#F2F7FA",
+        "muted": "#B4C4CD",
+        "accent": "#83D0E8",
+        "border": "#455967"
+      },
+      "typography": "Technical sans and tabular mono metrics",
+      "layout": "Persistent nav and drill-down metrics",
+      "motion": "No decorative motion for critical data",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "nature-solar",
+      "name": "Solarpunk Nature",
+      "priority": 11,
+      "best_for": "Sustainability and green technology",
+      "style_mix": "Biophilic UI + Solarpunk + Organic UI",
+      "tags": [
+        "environment",
+        "sustainability",
+        "green",
+        "solar",
+        "nonprofit",
+        "nature",
+        "eco",
+        "energy"
+      ],
+      "moods": [
+        "nature",
+        "optimistic",
+        "organic",
+        "warm",
+        "green"
+      ],
+      "palette": {
+        "bg": "#F4F8E9",
+        "surface": "#FFFFFF",
+        "text": "#263C2B",
+        "muted": "#506552",
+        "accent": "#256A3D",
+        "border": "#CCDBC6"
+      },
+      "typography": "Warm humanist sans-serif",
+      "layout": "Organic image framing with structured cards",
+      "motion": "Gentle illustrations without loading-heavy effects",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "dark-luxury",
+      "name": "Dark Luxury",
+      "priority": 12,
+      "best_for": "Luxury product, architecture and premium brands",
+      "style_mix": "Quiet Luxury UI + Black & Gold UI + Serif-Led UI",
+      "tags": [
+        "luxury",
+        "jewelry",
+        "architecture",
+        "realestate",
+        "fashion",
+        "premium",
+        "hotel",
+        "automotive"
+      ],
+      "moods": [
+        "luxury",
+        "dark",
+        "elegant",
+        "premium",
+        "cinematic"
+      ],
+      "palette": {
+        "bg": "#11100F",
+        "surface": "#201D1B",
+        "text": "#FAF7F1",
+        "muted": "#C5BCAE",
+        "accent": "#E8C884",
+        "border": "#5B5248"
+      },
+      "typography": "High-contrast serif display; discreet sans body",
+      "layout": "Immersive editorial photography with clean ordering",
+      "motion": "Slow but skippable transitions",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "motion-portfolio",
+      "name": "Motion Portfolio",
+      "priority": 13,
+      "best_for": "Interactive creative portfolio",
+      "style_mix": "Kinetic Typography UI + Scrollytelling + Asymmetric Layout",
+      "tags": [
+        "portfolio",
+        "design",
+        "creative",
+        "studio",
+        "art",
+        "animation",
+        "photography"
+      ],
+      "moods": [
+        "experimental",
+        "animated",
+        "editorial",
+        "bold"
+      ],
+      "palette": {
+        "bg": "#F4F1EC",
+        "surface": "#FFFFFF",
+        "text": "#161616",
+        "muted": "#575757",
+        "accent": "#963B1D",
+        "border": "#CBC3BA"
+      },
+      "typography": "Distinctive large variable heading; accessible sans body",
+      "layout": "Narrative project sequence with accessible alternative",
+      "motion": "Scroll-linked reveals with reduced-motion fallback",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "cyber-esports",
+      "name": "Cyber Esports",
+      "priority": 14,
+      "best_for": "Gaming communities and esports",
+      "style_mix": "Cyberpunk + Neon UI + Immersive 3D UI",
+      "tags": [
+        "game",
+        "gaming",
+        "esports",
+        "tournament",
+        "streaming",
+        "entertainment"
+      ],
+      "moods": [
+        "cyberpunk",
+        "neon",
+        "futuristic",
+        "dark",
+        "energetic"
+      ],
+      "palette": {
+        "bg": "#0B0A19",
+        "surface": "#211B37",
+        "text": "#F8F6FF",
+        "muted": "#BFB5D4",
+        "accent": "#D5A5FF",
+        "border": "#534669"
+      },
+      "typography": "Angular headline with clean body",
+      "layout": "Prominent live content and schedules",
+      "motion": "Motion opt-in, no flashes or seizure-risk effects",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "news-editorial",
+      "name": "Modern Publisher",
+      "priority": 15,
+      "best_for": "News and knowledge publishing",
+      "style_mix": "Editorial Design + Newspaper Layout + Typography-First UI",
+      "tags": [
+        "news",
+        "blog",
+        "publisher",
+        "magazine",
+        "media",
+        "content",
+        "article",
+        "education"
+      ],
+      "moods": [
+        "editorial",
+        "readable",
+        "classic",
+        "clean",
+        "informative"
+      ],
+      "palette": {
+        "bg": "#FCFCFA",
+        "surface": "#FFFFFF",
+        "text": "#202020",
+        "muted": "#525252",
+        "accent": "#9A342E",
+        "border": "#D8D8D4"
+      },
+      "typography": "Readable serif for long-form content; sans meta",
+      "layout": "Article grid, clear bylines and reading layouts",
+      "motion": "Avoid decorative article transitions",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "developer-terminal",
+      "name": "Developer Console",
+      "priority": 16,
+      "best_for": "APIs, SDKs and technical products",
+      "style_mix": "Monospaced UI + Dark Mode UI + Master-Detail Layout",
+      "tags": [
+        "developer",
+        "code",
+        "api",
+        "sdk",
+        "docs",
+        "terminal",
+        "devtools",
+        "security"
+      ],
+      "moods": [
+        "technical",
+        "dark",
+        "focused",
+        "minimal"
+      ],
+      "palette": {
+        "bg": "#10151A",
+        "surface": "#1B242B",
+        "text": "#F1F6F8",
+        "muted": "#B6C6CC",
+        "accent": "#8BD6B7",
+        "border": "#425561"
+      },
+      "typography": "Clean sans for text, mono for code",
+      "layout": "Split docs navigation and copy-ready examples",
+      "motion": "Immediate feedback; no excessive glow",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "frutiger-fun",
+      "name": "Frutiger Aero Revival",
+      "priority": 17,
+      "best_for": "Fun nostalgic community or promo sites",
+      "style_mix": "Frutiger Aero + Glossy 3D UI + Web 2.0 Glossy",
+      "tags": [
+        "community",
+        "retro",
+        "nostalgia",
+        "creative",
+        "campaign",
+        "portfolio"
+      ],
+      "moods": [
+        "retro",
+        "nostalgic",
+        "colorful",
+        "playful",
+        "glossy"
+      ],
+      "palette": {
+        "bg": "#EAF8FD",
+        "surface": "#FFFFFF",
+        "text": "#15394A",
+        "muted": "#3E6270",
+        "accent": "#126E9A",
+        "border": "#A4D1DE"
+      },
+      "typography": "Friendly humanist sans",
+      "layout": "Glossy hero with simple accessible content layers",
+      "motion": "Avoid overwhelming reflections and tiny controls",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "vaporwave-creator",
+      "name": "Vaporwave Creator",
+      "priority": 18,
+      "best_for": "Music artists and experimental campaigns",
+      "style_mix": "Vaporwave + Synthwave + Neon UI",
+      "tags": [
+        "music",
+        "artist",
+        "portfolio",
+        "event",
+        "gaming",
+        "creative",
+        "campaign"
+      ],
+      "moods": [
+        "retro",
+        "neon",
+        "experimental",
+        "bold",
+        "dark"
+      ],
+      "palette": {
+        "bg": "#190C31",
+        "surface": "#2D1C48",
+        "text": "#FFF2FF",
+        "muted": "#D7B8DF",
+        "accent": "#F5B2E4",
+        "border": "#6A417C"
+      },
+      "typography": "Expressive display paired with readable body",
+      "layout": "Hero artwork with structured utility sections",
+      "motion": "Avoid incessant blinking and unreadable glow",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "industrial-tool",
+      "name": "Industrial Control",
+      "priority": 19,
+      "best_for": "Internal utilities and industrial systems",
+      "style_mix": "Industrial UI + High-Contrast UI + Data-Dense Layout",
+      "tags": [
+        "industrial",
+        "manufacturing",
+        "inventory",
+        "operations",
+        "logistics",
+        "warehouse",
+        "admin"
+      ],
+      "moods": [
+        "utilitarian",
+        "technical",
+        "serious",
+        "dense"
+      ],
+      "palette": {
+        "bg": "#F1F2F0",
+        "surface": "#FFFFFF",
+        "text": "#1E282A",
+        "muted": "#495558",
+        "accent": "#0B5670",
+        "border": "#BFC9C8"
+      },
+      "typography": "Compact but readable utilitarian sans",
+      "layout": "Task-driven forms with durable tables",
+      "motion": "Prioritize status and clear errors over animation",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "organic-cafe",
+      "name": "Organic Hospitality",
+      "priority": 20,
+      "best_for": "Cafe, restaurant, travel and hospitality websites",
+      "style_mix": "Organic UI + Warm Minimal UI + Editorial Design",
+      "tags": [
+        "restaurant",
+        "cafe",
+        "food",
+        "hotel",
+        "hospitality",
+        "travel",
+        "booking"
+      ],
+      "moods": [
+        "warm",
+        "organic",
+        "friendly",
+        "elegant"
+      ],
+      "palette": {
+        "bg": "#F9F3E9",
+        "surface": "#FFFDFC",
+        "text": "#33271E",
+        "muted": "#65554A",
+        "accent": "#805022",
+        "border": "#DCD0BE"
+      },
+      "typography": "Soft editorial serif and accessible sans-serif",
+      "layout": "Inviting photography with immediate booking CTA",
+      "motion": "Restrained motion; fast image loading",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "material-expressive",
+      "name": "Expressive Mobile",
+      "priority": 21,
+      "best_for": "Expressive Android-style apps",
+      "style_mix": "Material 3 Expressive + Adaptive Color UI + Motion-First UI",
+      "tags": [
+        "android",
+        "mobile",
+        "app",
+        "productivity",
+        "consumer",
+        "education"
+      ],
+      "moods": [
+        "playful",
+        "modern",
+        "colorful",
+        "expressive",
+        "mobile"
+      ],
+      "palette": {
+        "bg": "#FAF7FF",
+        "surface": "#FFFFFF",
+        "text": "#2B2440",
+        "muted": "#5D5470",
+        "accent": "#6046A2",
+        "border": "#D8D0E5"
+      },
+      "typography": "Variable weight friendly sans",
+      "layout": "Prominent expressive actions and adaptive components",
+      "motion": "Motion with clear reduced-motion variant",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "spectrum-creative",
+      "name": "Creative Workbench",
+      "priority": 22,
+      "best_for": "Media editors and design workspaces",
+      "style_mix": "Neutral Dark UI + Modular Grid + Master-Detail Layout",
+      "tags": [
+        "design",
+        "editor",
+        "media",
+        "creative",
+        "workspace",
+        "productivity",
+        "tool"
+      ],
+      "moods": [
+        "dark",
+        "professional",
+        "focused",
+        "technical"
+      ],
+      "palette": {
+        "bg": "#1C1C1E",
+        "surface": "#29292D",
+        "text": "#FAFAFC",
+        "muted": "#BEBEC7",
+        "accent": "#ADCBFF",
+        "border": "#50505A"
+      },
+      "typography": "High-density crisp sans",
+      "layout": "Toolbars, inspector panels and canvas",
+      "motion": "Direct manipulation and keyboard shortcuts",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "edu-institution",
+      "name": "Education Clarity",
+      "priority": 23,
+      "best_for": "Schools and learning platforms",
+      "style_mix": "Scandinavian UI + Card-Based Layout + Progress Feedback",
+      "tags": [
+        "school",
+        "education",
+        "university",
+        "edtech",
+        "student",
+        "learning",
+        "college"
+      ],
+      "moods": [
+        "clean",
+        "trustworthy",
+        "friendly",
+        "light"
+      ],
+      "palette": {
+        "bg": "#F6F9FF",
+        "surface": "#FFFFFF",
+        "text": "#172B48",
+        "muted": "#4B6079",
+        "accent": "#195BA2",
+        "border": "#D1DFED"
+      },
+      "typography": "Readable sans and clear textbook-like headings",
+      "layout": "Course cards, schedules, learning progress",
+      "motion": "Motivational but restrained progress animations",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "bento-launch",
+      "name": "Premium Bento Launch",
+      "priority": 24,
+      "best_for": "Product landing pages and SaaS marketing",
+      "style_mix": "Bento UI + Minimalism + Mesh Gradient UI",
+      "tags": [
+        "saas",
+        "landing",
+        "startup",
+        "product",
+        "agency",
+        "technology",
+        "marketing",
+        "ai"
+      ],
+      "moods": [
+        "premium",
+        "modern",
+        "clean",
+        "gradient",
+        "minimal"
+      ],
+      "palette": {
+        "bg": "#F5F7FE",
+        "surface": "#FFFFFF",
+        "text": "#182035",
+        "muted": "#4D5870",
+        "accent": "#3459B8",
+        "border": "#D6DEEF"
+      },
+      "typography": "Modern display sans paired with legible body",
+      "layout": "Feature bento grid and high-signal hero",
+      "motion": "Subtle card reveals and hover feedback",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "swiss-functional",
+      "name": "Swiss Functional",
+      "priority": 25,
+      "best_for": "Information architecture and practical sites",
+      "style_mix": "Swiss Design + Minimalism + Modular Grid",
+      "tags": [
+        "documentation",
+        "government",
+        "public",
+        "research",
+        "consulting",
+        "portfolio",
+        "education"
+      ],
+      "moods": [
+        "clean",
+        "minimal",
+        "typographic",
+        "professional"
+      ],
+      "palette": {
+        "bg": "#FFFFFF",
+        "surface": "#F7F7F7",
+        "text": "#181818",
+        "muted": "#4E4E4E",
+        "accent": "#AD2020",
+        "border": "#D1D1D1"
+      },
+      "typography": "Disciplined grotesk sans and strict scale",
+      "layout": "Mathematical aligned grid and clear hierarchy",
+      "motion": "Interaction only for clarity",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "paper-notes",
+      "name": "Paper Notes",
+      "priority": 26,
+      "best_for": "Writing and personal knowledge tools",
+      "style_mix": "Paper UI + Warm Minimal UI + Text-Only UI",
+      "tags": [
+        "notes",
+        "writing",
+        "knowledge",
+        "blog",
+        "productivity",
+        "journaling",
+        "editor"
+      ],
+      "moods": [
+        "calm",
+        "warm",
+        "minimal",
+        "editorial"
+      ],
+      "palette": {
+        "bg": "#F4F0E7",
+        "surface": "#FFFEFA",
+        "text": "#2B2925",
+        "muted": "#5F5A52",
+        "accent": "#66522C",
+        "border": "#D3C9B8"
+      },
+      "typography": "Readable system serif or humanist sans",
+      "layout": "Distraction-free editor with subtle paper framing",
+      "motion": "Almost no motion",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "neo-retail",
+      "name": "Dopamine Retail",
+      "priority": 27,
+      "best_for": "Youth-oriented shopping and community",
+      "style_mix": "Dopamine Design + Color-Blocking UI + Neo-Brutalism",
+      "tags": [
+        "fashion",
+        "retail",
+        "ecommerce",
+        "youth",
+        "community",
+        "campaign",
+        "merch"
+      ],
+      "moods": [
+        "bold",
+        "colorful",
+        "playful",
+        "energetic"
+      ],
+      "palette": {
+        "bg": "#FFF6E6",
+        "surface": "#FFFFFF",
+        "text": "#201A2D",
+        "muted": "#4F4860",
+        "accent": "#6A2BA7",
+        "border": "#403351"
+      },
+      "typography": "Bold rounded display and clear body",
+      "layout": "Large campaign banners and focused checkout",
+      "motion": "Playful feedback, checkout remains calm",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "healthcare-clarity",
+      "name": "Healthcare Clarity",
+      "priority": 28,
+      "best_for": "Healthcare and service forms",
+      "style_mix": "Professional Minimalism + Calm Wellness UI + High-Contrast UI",
+      "tags": [
+        "health",
+        "healthcare",
+        "medical",
+        "clinic",
+        "hospital",
+        "patient",
+        "care"
+      ],
+      "moods": [
+        "calm",
+        "trustworthy",
+        "professional",
+        "clean"
+      ],
+      "palette": {
+        "bg": "#F2F8FA",
+        "surface": "#FFFFFF",
+        "text": "#203545",
+        "muted": "#506675",
+        "accent": "#12577C",
+        "border": "#CBDEE5"
+      },
+      "typography": "Very readable sans with unambiguous labels",
+      "layout": "Simple forms, progress steps and error prevention",
+      "motion": "Avoid decorative animation on clinical tasks",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "spatial-experience",
+      "name": "Spatial Showcase",
+      "priority": 29,
+      "best_for": "AR/VR showcases and experiential marketing",
+      "style_mix": "Spatial UI + 3D Illustration UI + Glassmorphism",
+      "tags": [
+        "ar",
+        "vr",
+        "spatial",
+        "experience",
+        "3d",
+        "showcase",
+        "creative"
+      ],
+      "moods": [
+        "futuristic",
+        "immersive",
+        "experimental",
+        "glass"
+      ],
+      "palette": {
+        "bg": "#101522",
+        "surface": "#1F2B40",
+        "text": "#F3F8FF",
+        "muted": "#B9CBE1",
+        "accent": "#AED6FF",
+        "border": "#4E647D"
+      },
+      "typography": "Clean technical sans readable in depth",
+      "layout": "Spatial object focus with accessible 2D equivalent",
+      "motion": "Offer keyboard 2D and reduced-motion paths",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "travel-explorer",
+      "name": "Travel Explorer",
+      "priority": 30,
+      "best_for": "Travel discovery and itinerary products",
+      "style_mix": "Editorial Design + Card-Based Layout + Oceanic UI",
+      "tags": [
+        "travel",
+        "vacation",
+        "tourism",
+        "booking",
+        "hotel",
+        "map",
+        "itinerary"
+      ],
+      "moods": [
+        "friendly",
+        "visual",
+        "ocean",
+        "adventure",
+        "modern"
+      ],
+      "palette": {
+        "bg": "#F4F9FB",
+        "surface": "#FFFFFF",
+        "text": "#203743",
+        "muted": "#4C6470",
+        "accent": "#006889",
+        "border": "#C7DBE3"
+      },
+      "typography": "Warm editorial headline; practical sans body",
+      "layout": "Search filters, maps, destination cards",
+      "motion": "Fast transitions, accessible image alternatives",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "content-community",
+      "name": "Content Community",
+      "priority": 31,
+      "best_for": "Forums, creator spaces and social apps",
+      "style_mix": "Flat Design 2.0 + Card-Based Layout + Social Feed UI",
+      "tags": [
+        "social",
+        "community",
+        "forum",
+        "creator",
+        "socialmedia",
+        "discussion"
+      ],
+      "moods": [
+        "friendly",
+        "modern",
+        "light",
+        "clear"
+      ],
+      "palette": {
+        "bg": "#F6F7FB",
+        "surface": "#FFFFFF",
+        "text": "#21283A",
+        "muted": "#535E74",
+        "accent": "#374EAE",
+        "border": "#D8DEEB"
+      },
+      "typography": "Clear sans optimized for reading and timestamps",
+      "layout": "Accessible feed cards and user-generated content",
+      "motion": "Light likes and feedback, no forced motion",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    },
+    {
+      "id": "art-deco-premium",
+      "name": "Art Deco Premium",
+      "priority": 32,
+      "best_for": "Boutique hospitality and special events",
+      "style_mix": "Art Deco + Black & Gold UI + Serif-Led UI",
+      "tags": [
+        "luxury",
+        "hotel",
+        "event",
+        "hospitality",
+        "fashion",
+        "architecture"
+      ],
+      "moods": [
+        "luxury",
+        "retro",
+        "elegant",
+        "dark"
+      ],
+      "palette": {
+        "bg": "#181B1E",
+        "surface": "#262B2F",
+        "text": "#FFF9EA",
+        "muted": "#D1C6AD",
+        "accent": "#E9CD8A",
+        "border": "#5D6057"
+      },
+      "typography": "Decorative display reserved for titles; clean sans body",
+      "layout": "Symmetrical hero and structured sections",
+      "motion": "Simple elegant reveals",
+      "cautions": [
+        "Validate colors in real UI states and interactive elements.",
+        "Respect the existing product design system when modifying an existing application."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1547 @@
+{
+  "version": "1.0.0",
+  "total": 220,
+  "note": "Reference vocabulary: includes visual aesthetics, material treatments, layouts, interaction patterns, application archetypes and product design systems. These are not all equivalent theme categories.",
+  "styles": [
+    {
+      "id": 1,
+      "slug": "minimalism",
+      "name": "Minimalism",
+      "category": "Core styles",
+      "description": "Clean restrained compositions with generous whitespace"
+    },
+    {
+      "id": 2,
+      "slug": "maximalism",
+      "name": "Maximalism",
+      "category": "Core styles",
+      "description": "Dense expressive composition rich in details"
+    },
+    {
+      "id": 3,
+      "slug": "glassmorphism",
+      "name": "Glassmorphism",
+      "category": "Core styles",
+      "description": "Frosted translucent layers over varied backgrounds"
+    },
+    {
+      "id": 4,
+      "slug": "neumorphism",
+      "name": "Neumorphism",
+      "category": "Core styles",
+      "description": "Soft raised and inset controls with subtle shadows"
+    },
+    {
+      "id": 5,
+      "slug": "claymorphism",
+      "name": "Claymorphism",
+      "category": "Core styles",
+      "description": "Puffy friendly rounded three-dimensional objects"
+    },
+    {
+      "id": 6,
+      "slug": "brutalism",
+      "name": "Brutalism",
+      "category": "Core styles",
+      "description": "Raw typography and unconventional unpolished structures"
+    },
+    {
+      "id": 7,
+      "slug": "neo-brutalism",
+      "name": "Neo-Brutalism",
+      "category": "Core styles",
+      "description": "Bright colors heavy outlines and hard shadows"
+    },
+    {
+      "id": 8,
+      "slug": "skeuomorphism",
+      "name": "Skeuomorphism",
+      "category": "Core styles",
+      "description": "Digital surfaces mimicking physical objects"
+    },
+    {
+      "id": 9,
+      "slug": "flat-design",
+      "name": "Flat Design",
+      "category": "Core styles",
+      "description": "Simplified two-dimensional illustrations and icons"
+    },
+    {
+      "id": 10,
+      "slug": "material-design",
+      "name": "Material Design",
+      "category": "Core styles",
+      "description": "Google's structured component and interaction language"
+    },
+    {
+      "id": 11,
+      "slug": "bento-ui",
+      "name": "Bento UI",
+      "category": "Core styles",
+      "description": "Mixed-size modular card compositions"
+    },
+    {
+      "id": 12,
+      "slug": "y2k-design",
+      "name": "Y2K Design",
+      "category": "Core styles",
+      "description": "Late-1990s and early-2000s web visual nostalgia"
+    },
+    {
+      "id": 13,
+      "slug": "retro-design",
+      "name": "Retro Design",
+      "category": "Core styles",
+      "description": "Borrowed color typography and motifs from past eras"
+    },
+    {
+      "id": 14,
+      "slug": "cyberpunk",
+      "name": "Cyberpunk",
+      "category": "Core styles",
+      "description": "Dark dystopian futuristic neon visuals"
+    },
+    {
+      "id": 15,
+      "slug": "editorial-design",
+      "name": "Editorial Design",
+      "category": "Core styles",
+      "description": "Typographic hierarchy and magazine-like composition"
+    },
+    {
+      "id": 16,
+      "slug": "ultra-minimalism",
+      "name": "Ultra-Minimalism",
+      "category": "Core styles",
+      "description": "Very few visible UI elements or ornaments"
+    },
+    {
+      "id": 17,
+      "slug": "soft-ui",
+      "name": "Soft UI",
+      "category": "Core styles",
+      "description": "Gentle colors with soft surface elevations"
+    },
+    {
+      "id": 18,
+      "slug": "tactile-ui",
+      "name": "Tactile UI",
+      "category": "Core styles",
+      "description": "Controls that signal touch and physical feedback"
+    },
+    {
+      "id": 19,
+      "slug": "paper-ui",
+      "name": "Paper UI",
+      "category": "Core styles",
+      "description": "Paper-like sheets textures and visual layering"
+    },
+    {
+      "id": 20,
+      "slug": "flat-design-2-0",
+      "name": "Flat Design 2.0",
+      "category": "Core styles",
+      "description": "Flat components with selective depth and gradients"
+    },
+    {
+      "id": 21,
+      "slug": "liquid-glass",
+      "name": "Liquid Glass",
+      "category": "Materials and effects",
+      "description": "Refractive translucent adaptive glass-like surfaces"
+    },
+    {
+      "id": 22,
+      "slug": "frosted-glass-ui",
+      "name": "Frosted Glass UI",
+      "category": "Materials and effects",
+      "description": "Background-blurred translucent panels"
+    },
+    {
+      "id": 23,
+      "slug": "acrylic-ui",
+      "name": "Acrylic UI",
+      "category": "Materials and effects",
+      "description": "Layered translucent acrylic-inspired surfaces"
+    },
+    {
+      "id": 24,
+      "slug": "mica-ui",
+      "name": "Mica UI",
+      "category": "Materials and effects",
+      "description": "Subtle sampled and tinted material treatment"
+    },
+    {
+      "id": 25,
+      "slug": "holographic-ui",
+      "name": "Holographic UI",
+      "category": "Materials and effects",
+      "description": "Layered futuristic projected-light effects"
+    },
+    {
+      "id": 26,
+      "slug": "iridescent-ui",
+      "name": "Iridescent UI",
+      "category": "Materials and effects",
+      "description": "Pearlescent color-shifting highlights"
+    },
+    {
+      "id": 27,
+      "slug": "chrome-metallic-ui",
+      "name": "Chrome Metallic UI",
+      "category": "Materials and effects",
+      "description": "Mirrored and chrome-like reflective finish"
+    },
+    {
+      "id": 28,
+      "slug": "liquid-metal-ui",
+      "name": "Liquid Metal UI",
+      "category": "Materials and effects",
+      "description": "Fluid metallic shapes and glossy reflections"
+    },
+    {
+      "id": 29,
+      "slug": "glossy-3d-ui",
+      "name": "Glossy 3D UI",
+      "category": "Materials and effects",
+      "description": "Reflective three-dimensional interface objects"
+    },
+    {
+      "id": 30,
+      "slug": "matte-ui",
+      "name": "Matte UI",
+      "category": "Materials and effects",
+      "description": "Low-glare nonreflective finishes"
+    },
+    {
+      "id": 31,
+      "slug": "aurora-ui",
+      "name": "Aurora UI",
+      "category": "Materials and effects",
+      "description": "Flowing bands of soft colored light"
+    },
+    {
+      "id": 32,
+      "slug": "mesh-gradient-ui",
+      "name": "Mesh Gradient UI",
+      "category": "Materials and effects",
+      "description": "Smooth blending of multiple soft colors"
+    },
+    {
+      "id": 33,
+      "slug": "gradient-first-ui",
+      "name": "Gradient-First UI",
+      "category": "Materials and effects",
+      "description": "Gradient backgrounds are the visual identity"
+    },
+    {
+      "id": 34,
+      "slug": "grainy-gradient-ui",
+      "name": "Grainy Gradient UI",
+      "category": "Materials and effects",
+      "description": "Subtly noisy gradient backgrounds"
+    },
+    {
+      "id": 35,
+      "slug": "noise-texture-ui",
+      "name": "Noise Texture UI",
+      "category": "Materials and effects",
+      "description": "Fine grain and organic surface texture"
+    },
+    {
+      "id": 36,
+      "slug": "glow-ui",
+      "name": "Glow UI",
+      "category": "Materials and effects",
+      "description": "Soft diffused luminance around controls"
+    },
+    {
+      "id": 37,
+      "slug": "neon-ui",
+      "name": "Neon UI",
+      "category": "Materials and effects",
+      "description": "Bright glowing accent lines and borders"
+    },
+    {
+      "id": 38,
+      "slug": "outline-ui",
+      "name": "Outline UI",
+      "category": "Materials and effects",
+      "description": "Outlined cards with minimal fills"
+    },
+    {
+      "id": 39,
+      "slug": "hard-shadow-ui",
+      "name": "Hard-Shadow UI",
+      "category": "Materials and effects",
+      "description": "High-contrast offset drop shadows"
+    },
+    {
+      "id": 40,
+      "slug": "soft-shadow-ui",
+      "name": "Soft-Shadow UI",
+      "category": "Materials and effects",
+      "description": "Diffused elevation and separation"
+    },
+    {
+      "id": 41,
+      "slug": "layered-depth-ui",
+      "name": "Layered Depth UI",
+      "category": "Materials and effects",
+      "description": "Multi-plane overlapping visual hierarchy"
+    },
+    {
+      "id": 42,
+      "slug": "transparent-ui",
+      "name": "Transparent UI",
+      "category": "Materials and effects",
+      "description": "Selective transparency to reveal underlying layers"
+    },
+    {
+      "id": 43,
+      "slug": "3d-illustration-ui",
+      "name": "3D Illustration UI",
+      "category": "Materials and effects",
+      "description": "Sculpted illustrations as feature art"
+    },
+    {
+      "id": 44,
+      "slug": "isometric-ui",
+      "name": "Isometric UI",
+      "category": "Materials and effects",
+      "description": "Orthographic-angled geometric scenes"
+    },
+    {
+      "id": 45,
+      "slug": "generative-art-ui",
+      "name": "Generative Art UI",
+      "category": "Materials and effects",
+      "description": "Algorithmic or procedurally varied graphics"
+    },
+    {
+      "id": 46,
+      "slug": "bauhaus",
+      "name": "Bauhaus",
+      "category": "Art and historical themes",
+      "description": "Geometric functional and primary-color-inspired composition"
+    },
+    {
+      "id": 47,
+      "slug": "swiss-design",
+      "name": "Swiss Design",
+      "category": "Art and historical themes",
+      "description": "Grid discipline typographic hierarchy and clarity"
+    },
+    {
+      "id": 48,
+      "slug": "de-stijl",
+      "name": "De Stijl",
+      "category": "Art and historical themes",
+      "description": "Rectilinear geometry and primary colors"
+    },
+    {
+      "id": 49,
+      "slug": "memphis-design",
+      "name": "Memphis Design",
+      "category": "Art and historical themes",
+      "description": "Playful shapes squiggles and bold pattern"
+    },
+    {
+      "id": 50,
+      "slug": "art-deco",
+      "name": "Art Deco",
+      "category": "Art and historical themes",
+      "description": "Symmetrical forms opulent geometry and elegant accents"
+    },
+    {
+      "id": 51,
+      "slug": "art-nouveau",
+      "name": "Art Nouveau",
+      "category": "Art and historical themes",
+      "description": "Flowing ornamental organic decoration"
+    },
+    {
+      "id": 52,
+      "slug": "mid-century-modern",
+      "name": "Mid-Century Modern",
+      "category": "Art and historical themes",
+      "description": "Warm retro geometry and functional restraint"
+    },
+    {
+      "id": 53,
+      "slug": "constructivism",
+      "name": "Constructivism",
+      "category": "Art and historical themes",
+      "description": "Angular poster graphics and emphatic typography"
+    },
+    {
+      "id": 54,
+      "slug": "futurism",
+      "name": "Futurism",
+      "category": "Art and historical themes",
+      "description": "Speed energy and technology-inspired imagery"
+    },
+    {
+      "id": 55,
+      "slug": "geocities-inspired",
+      "name": "GeoCities-Inspired",
+      "category": "Art and historical themes",
+      "description": "Handcrafted colorful 1990s browser-era nostalgia"
+    },
+    {
+      "id": 56,
+      "slug": "web-1-0-design",
+      "name": "Web 1.0 Design",
+      "category": "Art and historical themes",
+      "description": "Early-web conventions and simple HTML presentation"
+    },
+    {
+      "id": 57,
+      "slug": "web-2-0-glossy",
+      "name": "Web 2.0 Glossy",
+      "category": "Art and historical themes",
+      "description": "Rounded glossy gradient controls and reflections"
+    },
+    {
+      "id": 58,
+      "slug": "frutiger-aero",
+      "name": "Frutiger Aero",
+      "category": "Art and historical themes",
+      "description": "Glossy eco-tech imagery blue skies and glass"
+    },
+    {
+      "id": 59,
+      "slug": "vaporwave",
+      "name": "Vaporwave",
+      "category": "Art and historical themes",
+      "description": "Pastel retro surreal computer culture motifs"
+    },
+    {
+      "id": 60,
+      "slug": "synthwave",
+      "name": "Synthwave",
+      "category": "Art and historical themes",
+      "description": "1980s neon grids and outrun landscapes"
+    },
+    {
+      "id": 61,
+      "slug": "retrofuturism",
+      "name": "Retrofuturism",
+      "category": "Art and historical themes",
+      "description": "Classic imagined futures with nostalgic materials"
+    },
+    {
+      "id": 62,
+      "slug": "solarpunk",
+      "name": "Solarpunk",
+      "category": "Art and historical themes",
+      "description": "Optimistic ecological technology imagination"
+    },
+    {
+      "id": 63,
+      "slug": "cassette-futurism",
+      "name": "Cassette Futurism",
+      "category": "Art and historical themes",
+      "description": "Analog switches and retro-spacecraft motifs"
+    },
+    {
+      "id": 64,
+      "slug": "pixel-art-ui",
+      "name": "Pixel Art UI",
+      "category": "Art and historical themes",
+      "description": "Pixel-defined graphics and ornamentation"
+    },
+    {
+      "id": 65,
+      "slug": "8-bit-arcade",
+      "name": "8-Bit Arcade",
+      "category": "Art and historical themes",
+      "description": "Old-school game visual language"
+    },
+    {
+      "id": 66,
+      "slug": "arcade-neon",
+      "name": "Arcade Neon",
+      "category": "Art and historical themes",
+      "description": "Bright arcade cabinet colors and lighting"
+    },
+    {
+      "id": 67,
+      "slug": "grunge-design",
+      "name": "Grunge Design",
+      "category": "Art and historical themes",
+      "description": "Distressed typography and worn textures"
+    },
+    {
+      "id": 68,
+      "slug": "punk-design",
+      "name": "Punk Design",
+      "category": "Art and historical themes",
+      "description": "Rebellious collage with confrontational type"
+    },
+    {
+      "id": 69,
+      "slug": "pop-art",
+      "name": "Pop Art",
+      "category": "Art and historical themes",
+      "description": "Saturated colors and mass-culture graphic motifs"
+    },
+    {
+      "id": 70,
+      "slug": "psychedelic-design",
+      "name": "Psychedelic Design",
+      "category": "Art and historical themes",
+      "description": "Swirling patterns and intense contrasting colors"
+    },
+    {
+      "id": 71,
+      "slug": "risograph-style",
+      "name": "Risograph Style",
+      "category": "Art and historical themes",
+      "description": "Overprinted textures with offset limited inks"
+    },
+    {
+      "id": 72,
+      "slug": "zine-aesthetic",
+      "name": "Zine Aesthetic",
+      "category": "Art and historical themes",
+      "description": "Experimental handmade editorial collage"
+    },
+    {
+      "id": 73,
+      "slug": "collage-ui",
+      "name": "Collage UI",
+      "category": "Art and historical themes",
+      "description": "Cut-out images layered across compositions"
+    },
+    {
+      "id": 74,
+      "slug": "cut-paper-ui",
+      "name": "Cut-Paper UI",
+      "category": "Art and historical themes",
+      "description": "Paper silhouettes layered with depth"
+    },
+    {
+      "id": 75,
+      "slug": "halftone-comic-ui",
+      "name": "Halftone Comic UI",
+      "category": "Art and historical themes",
+      "description": "Comic-book dots and illustrative storytelling"
+    },
+    {
+      "id": 76,
+      "slug": "scandinavian-ui",
+      "name": "Scandinavian UI",
+      "category": "Brand and mood themes",
+      "description": "Light uncluttered functional design"
+    },
+    {
+      "id": 77,
+      "slug": "japandi-ui",
+      "name": "Japandi UI",
+      "category": "Brand and mood themes",
+      "description": "Quiet Japanese and Scandinavian-inspired balance"
+    },
+    {
+      "id": 78,
+      "slug": "wabi-sabi-ui",
+      "name": "Wabi-Sabi UI",
+      "category": "Brand and mood themes",
+      "description": "Natural materials restraint and imperfection"
+    },
+    {
+      "id": 79,
+      "slug": "organic-ui",
+      "name": "Organic UI",
+      "category": "Brand and mood themes",
+      "description": "Rounded fluid shapes inspired by nature"
+    },
+    {
+      "id": 80,
+      "slug": "biophilic-ui",
+      "name": "Biophilic UI",
+      "category": "Brand and mood themes",
+      "description": "Greenery daylight and natural visual cues"
+    },
+    {
+      "id": 81,
+      "slug": "eco-ui",
+      "name": "Eco UI",
+      "category": "Brand and mood themes",
+      "description": "Earthy sustainable-feeling visual direction"
+    },
+    {
+      "id": 82,
+      "slug": "botanical-ui",
+      "name": "Botanical UI",
+      "category": "Brand and mood themes",
+      "description": "Plant illustration and delicate nature imagery"
+    },
+    {
+      "id": 83,
+      "slug": "cottagecore-ui",
+      "name": "Cottagecore UI",
+      "category": "Brand and mood themes",
+      "description": "Cozy pastoral vintage nostalgia"
+    },
+    {
+      "id": 84,
+      "slug": "bohemian-ui",
+      "name": "Bohemian UI",
+      "category": "Brand and mood themes",
+      "description": "Relaxed layered decorative cultural patterns"
+    },
+    {
+      "id": 85,
+      "slug": "dark-academia-ui",
+      "name": "Dark Academia UI",
+      "category": "Brand and mood themes",
+      "description": "Dim libraries and classic scholarly motifs"
+    },
+    {
+      "id": 86,
+      "slug": "light-academia-ui",
+      "name": "Light Academia UI",
+      "category": "Brand and mood themes",
+      "description": "Cream-colored classical academic cues"
+    },
+    {
+      "id": 87,
+      "slug": "kawaii-ui",
+      "name": "Kawaii UI",
+      "category": "Brand and mood themes",
+      "description": "Cute expressive Japanese-inspired characters"
+    },
+    {
+      "id": 88,
+      "slug": "playful-cartoon-ui",
+      "name": "Playful Cartoon UI",
+      "category": "Brand and mood themes",
+      "description": "Friendly illustrated characters and bold shapes"
+    },
+    {
+      "id": 89,
+      "slug": "dopamine-design",
+      "name": "Dopamine Design",
+      "category": "Brand and mood themes",
+      "description": "Playful high-energy shapes and joyful color"
+    },
+    {
+      "id": 90,
+      "slug": "industrial-ui",
+      "name": "Industrial UI",
+      "category": "Brand and mood themes",
+      "description": "Mechanical utilitarian components and texture"
+    },
+    {
+      "id": 91,
+      "slug": "luxury-ui",
+      "name": "Luxury UI",
+      "category": "Brand and mood themes",
+      "description": "Refined restrained finishes and premium typography"
+    },
+    {
+      "id": 92,
+      "slug": "quiet-luxury-ui",
+      "name": "Quiet Luxury UI",
+      "category": "Brand and mood themes",
+      "description": "Discreet polish and generous negative space"
+    },
+    {
+      "id": 93,
+      "slug": "fashion-editorial-ui",
+      "name": "Fashion Editorial UI",
+      "category": "Brand and mood themes",
+      "description": "Art-directed typography and campaign photography"
+    },
+    {
+      "id": 94,
+      "slug": "cinematic-ui",
+      "name": "Cinematic UI",
+      "category": "Brand and mood themes",
+      "description": "Large evocative imagery with dramatic contrast"
+    },
+    {
+      "id": 95,
+      "slug": "tech-noir-ui",
+      "name": "Tech Noir UI",
+      "category": "Brand and mood themes",
+      "description": "Dark technology aesthetics and sharp reflections"
+    },
+    {
+      "id": 96,
+      "slug": "sci-fi-ui",
+      "name": "Sci-Fi UI",
+      "category": "Brand and mood themes",
+      "description": "Speculative high-technology control surfaces"
+    },
+    {
+      "id": 97,
+      "slug": "space-age-ui",
+      "name": "Space-Age UI",
+      "category": "Brand and mood themes",
+      "description": "Orbital and space exploration motifs"
+    },
+    {
+      "id": 98,
+      "slug": "esports-gaming-ui",
+      "name": "Esports / Gaming UI",
+      "category": "Brand and mood themes",
+      "description": "Competitive gaming visual cues and dynamic styling"
+    },
+    {
+      "id": 99,
+      "slug": "calm-wellness-ui",
+      "name": "Calm Wellness UI",
+      "category": "Brand and mood themes",
+      "description": "Soft restorative and calming compositions"
+    },
+    {
+      "id": 100,
+      "slug": "corporate-professional-ui",
+      "name": "Corporate Professional UI",
+      "category": "Brand and mood themes",
+      "description": "Reliable clean and conservative branding"
+    },
+    {
+      "id": 101,
+      "slug": "light-mode-ui",
+      "name": "Light Mode UI",
+      "category": "Color systems",
+      "description": "Light canvas with dark foreground text"
+    },
+    {
+      "id": 102,
+      "slug": "dark-mode-ui",
+      "name": "Dark Mode UI",
+      "category": "Color systems",
+      "description": "Dark canvas with bright legible foreground"
+    },
+    {
+      "id": 103,
+      "slug": "oled-black-ui",
+      "name": "OLED Black UI",
+      "category": "Color systems",
+      "description": "Deep true-black backgrounds for OLED displays"
+    },
+    {
+      "id": 104,
+      "slug": "high-contrast-ui",
+      "name": "High-Contrast UI",
+      "category": "Color systems",
+      "description": "Very distinct foreground and background values"
+    },
+    {
+      "id": 105,
+      "slug": "monochrome-ui",
+      "name": "Monochrome UI",
+      "category": "Color systems",
+      "description": "Tonal range built around one color family"
+    },
+    {
+      "id": 106,
+      "slug": "duotone-ui",
+      "name": "Duotone UI",
+      "category": "Color systems",
+      "description": "Two dominant colors used across assets"
+    },
+    {
+      "id": 107,
+      "slug": "pastel-ui",
+      "name": "Pastel UI",
+      "category": "Color systems",
+      "description": "Soft desaturated gentle color palette"
+    },
+    {
+      "id": 108,
+      "slug": "muted-neutral-ui",
+      "name": "Muted Neutral UI",
+      "category": "Color systems",
+      "description": "Quiet gray beige and stone tones"
+    },
+    {
+      "id": 109,
+      "slug": "earth-tone-ui",
+      "name": "Earth-Tone UI",
+      "category": "Color systems",
+      "description": "Browns olive greens and clay hues"
+    },
+    {
+      "id": 110,
+      "slug": "sunset-ui",
+      "name": "Sunset UI",
+      "category": "Color systems",
+      "description": "Warm orange pink and violet blends"
+    },
+    {
+      "id": 111,
+      "slug": "oceanic-ui",
+      "name": "Oceanic UI",
+      "category": "Color systems",
+      "description": "Aquatic blues cyan and teal"
+    },
+    {
+      "id": 112,
+      "slug": "tropical-ui",
+      "name": "Tropical UI",
+      "category": "Color systems",
+      "description": "Lively botanical and tropical hues"
+    },
+    {
+      "id": 113,
+      "slug": "candy-color-ui",
+      "name": "Candy-Color UI",
+      "category": "Color systems",
+      "description": "Sweet bright saturated hues"
+    },
+    {
+      "id": 114,
+      "slug": "jewel-tone-ui",
+      "name": "Jewel-Tone UI",
+      "category": "Color systems",
+      "description": "Deep gem-like saturated colors"
+    },
+    {
+      "id": 115,
+      "slug": "black-gold-ui",
+      "name": "Black & Gold UI",
+      "category": "Color systems",
+      "description": "Dark luxe surfaces with gold accents"
+    },
+    {
+      "id": 116,
+      "slug": "warm-minimal-ui",
+      "name": "Warm Minimal UI",
+      "category": "Color systems",
+      "description": "Cream sand and warm charcoal tones"
+    },
+    {
+      "id": 117,
+      "slug": "cool-tech-ui",
+      "name": "Cool Tech UI",
+      "category": "Color systems",
+      "description": "Slate blue graphite and cyan accents"
+    },
+    {
+      "id": 118,
+      "slug": "color-blocking-ui",
+      "name": "Color-Blocking UI",
+      "category": "Color systems",
+      "description": "Bold distinct fields of color"
+    },
+    {
+      "id": 119,
+      "slug": "adaptive-color-ui",
+      "name": "Adaptive Color UI",
+      "category": "Color systems",
+      "description": "Context-sensitive palettes that respond to settings"
+    },
+    {
+      "id": 120,
+      "slug": "brand-accent-ui",
+      "name": "Brand-Accent UI",
+      "category": "Color systems",
+      "description": "Mostly neutral palette with one strong branded accent"
+    },
+    {
+      "id": 121,
+      "slug": "typography-first-ui",
+      "name": "Typography-First UI",
+      "category": "Typography",
+      "description": "Type carries the majority of visual hierarchy"
+    },
+    {
+      "id": 122,
+      "slug": "oversized-typography-ui",
+      "name": "Oversized Typography UI",
+      "category": "Typography",
+      "description": "Very large statement headings"
+    },
+    {
+      "id": 123,
+      "slug": "kinetic-typography-ui",
+      "name": "Kinetic Typography UI",
+      "category": "Typography",
+      "description": "Animated text as a visual element"
+    },
+    {
+      "id": 124,
+      "slug": "serif-led-ui",
+      "name": "Serif-Led UI",
+      "category": "Typography",
+      "description": "Traditional serif type as brand expression"
+    },
+    {
+      "id": 125,
+      "slug": "sans-serif-modernism",
+      "name": "Sans-Serif Modernism",
+      "category": "Typography",
+      "description": "Modern sans-serif typographic clarity"
+    },
+    {
+      "id": 126,
+      "slug": "monospaced-ui",
+      "name": "Monospaced UI",
+      "category": "Typography",
+      "description": "Fixed-width type evoking engineering tools"
+    },
+    {
+      "id": 127,
+      "slug": "variable-typography-ui",
+      "name": "Variable Typography UI",
+      "category": "Typography",
+      "description": "Adjustable weight width or optical axis"
+    },
+    {
+      "id": 128,
+      "slug": "condensed-typography-ui",
+      "name": "Condensed Typography UI",
+      "category": "Typography",
+      "description": "Narrow bold typographic systems"
+    },
+    {
+      "id": 129,
+      "slug": "expanded-typography-ui",
+      "name": "Expanded Typography UI",
+      "category": "Typography",
+      "description": "Wide extended visual letterforms"
+    },
+    {
+      "id": 130,
+      "slug": "experimental-typography",
+      "name": "Experimental Typography",
+      "category": "Typography",
+      "description": "Deconstructed playful typographic composition"
+    },
+    {
+      "id": 131,
+      "slug": "handwritten-ui",
+      "name": "Handwritten UI",
+      "category": "Typography",
+      "description": "Personal informal handwriting aesthetics"
+    },
+    {
+      "id": 132,
+      "slug": "calligraphy-ui",
+      "name": "Calligraphy UI",
+      "category": "Typography",
+      "description": "Decorative letterforms and elegant scripts"
+    },
+    {
+      "id": 133,
+      "slug": "typewriter-ui",
+      "name": "Typewriter UI",
+      "category": "Typography",
+      "description": "Mechanical typewriter-inspired appearance"
+    },
+    {
+      "id": 134,
+      "slug": "outline-typography-ui",
+      "name": "Outline Typography UI",
+      "category": "Typography",
+      "description": "Stroked hollow display text"
+    },
+    {
+      "id": 135,
+      "slug": "mixed-type-ui",
+      "name": "Mixed-Type UI",
+      "category": "Typography",
+      "description": "Contrasting serif sans and mono families"
+    },
+    {
+      "id": 136,
+      "slug": "text-masking-ui",
+      "name": "Text-Masking UI",
+      "category": "Typography",
+      "description": "Images and gradients visible inside glyph shapes"
+    },
+    {
+      "id": 137,
+      "slug": "vertical-typography-ui",
+      "name": "Vertical Typography UI",
+      "category": "Typography",
+      "description": "Upright or rotated vertical text displays"
+    },
+    {
+      "id": 138,
+      "slug": "high-contrast-serif-ui",
+      "name": "High-Contrast Serif UI",
+      "category": "Typography",
+      "description": "Dramatic fashion-style thick-thin serifs"
+    },
+    {
+      "id": 139,
+      "slug": "stencil-typography-ui",
+      "name": "Stencil Typography UI",
+      "category": "Typography",
+      "description": "Cut-out industrial typographic shapes"
+    },
+    {
+      "id": 140,
+      "slug": "text-only-ui",
+      "name": "Text-Only UI",
+      "category": "Typography",
+      "description": "Visual hierarchy entirely through content and type"
+    },
+    {
+      "id": 141,
+      "slug": "modular-grid",
+      "name": "Modular Grid",
+      "category": "Layout and composition",
+      "description": "Repeated units supporting flexible composition"
+    },
+    {
+      "id": 142,
+      "slug": "asymmetric-layout",
+      "name": "Asymmetric Layout",
+      "category": "Layout and composition",
+      "description": "Unequal columns and deliberate visual balance"
+    },
+    {
+      "id": 143,
+      "slug": "split-screen-layout",
+      "name": "Split-Screen Layout",
+      "category": "Layout and composition",
+      "description": "Two independent or contrasting primary panels"
+    },
+    {
+      "id": 144,
+      "slug": "full-bleed-layout",
+      "name": "Full-Bleed Layout",
+      "category": "Layout and composition",
+      "description": "Edge-to-edge visual content and sections"
+    },
+    {
+      "id": 145,
+      "slug": "masonry-layout",
+      "name": "Masonry Layout",
+      "category": "Layout and composition",
+      "description": "Staggered tiles with varied vertical sizes"
+    },
+    {
+      "id": 146,
+      "slug": "card-based-layout",
+      "name": "Card-Based Layout",
+      "category": "Layout and composition",
+      "description": "Discrete surface containers group information"
+    },
+    {
+      "id": 147,
+      "slug": "stacked-card-layout",
+      "name": "Stacked-Card Layout",
+      "category": "Layout and composition",
+      "description": "Overlapping stacked content panels"
+    },
+    {
+      "id": 148,
+      "slug": "tiled-layout",
+      "name": "Tiled Layout",
+      "category": "Layout and composition",
+      "description": "Regular repeated visual tiles"
+    },
+    {
+      "id": 149,
+      "slug": "sidebar-first-layout",
+      "name": "Sidebar-First Layout",
+      "category": "Layout and composition",
+      "description": "Persistent vertical side navigation"
+    },
+    {
+      "id": 150,
+      "slug": "top-navigation-layout",
+      "name": "Top-Navigation Layout",
+      "category": "Layout and composition",
+      "description": "Global navigation at the top"
+    },
+    {
+      "id": 151,
+      "slug": "bottom-navigation-layout",
+      "name": "Bottom-Navigation Layout",
+      "category": "Layout and composition",
+      "description": "Mobile navigation along the lower edge"
+    },
+    {
+      "id": 152,
+      "slug": "hero-first-layout",
+      "name": "Hero-First Layout",
+      "category": "Layout and composition",
+      "description": "Strong opening statement and visual focus"
+    },
+    {
+      "id": 153,
+      "slug": "single-page-scrolling",
+      "name": "Single-Page Scrolling",
+      "category": "Layout and composition",
+      "description": "Continuous vertically flowing site"
+    },
+    {
+      "id": 154,
+      "slug": "storytelling-layout",
+      "name": "Storytelling Layout",
+      "category": "Layout and composition",
+      "description": "Content ordered as visual narrative"
+    },
+    {
+      "id": 155,
+      "slug": "magazine-layout",
+      "name": "Magazine Layout",
+      "category": "Layout and composition",
+      "description": "Mixed-density editorial layout patterns"
+    },
+    {
+      "id": 156,
+      "slug": "newspaper-layout",
+      "name": "Newspaper Layout",
+      "category": "Layout and composition",
+      "description": "Text-heavy column-based news arrangement"
+    },
+    {
+      "id": 157,
+      "slug": "dashboard-layout",
+      "name": "Dashboard Layout",
+      "category": "Layout and composition",
+      "description": "Metric cards charts controls and status panels"
+    },
+    {
+      "id": 158,
+      "slug": "data-dense-layout",
+      "name": "Data-Dense Layout",
+      "category": "Layout and composition",
+      "description": "Compact tables and information-intensive screens"
+    },
+    {
+      "id": 159,
+      "slug": "command-center-layout",
+      "name": "Command-Center Layout",
+      "category": "Layout and composition",
+      "description": "Operational data and actions in one view"
+    },
+    {
+      "id": 160,
+      "slug": "master-detail-layout",
+      "name": "Master-Detail Layout",
+      "category": "Layout and composition",
+      "description": "Navigation list paired with detail panel"
+    },
+    {
+      "id": 161,
+      "slug": "tabbed-interface",
+      "name": "Tabbed Interface",
+      "category": "Layout and composition",
+      "description": "Switch between grouped content areas"
+    },
+    {
+      "id": 162,
+      "slug": "timeline-layout",
+      "name": "Timeline Layout",
+      "category": "Layout and composition",
+      "description": "Information arranged chronologically"
+    },
+    {
+      "id": 163,
+      "slug": "kanban-layout",
+      "name": "Kanban Layout",
+      "category": "Layout and composition",
+      "description": "Task cards organized into workflow columns"
+    },
+    {
+      "id": 164,
+      "slug": "infinite-canvas",
+      "name": "Infinite Canvas",
+      "category": "Layout and composition",
+      "description": "Pan-and-zoom freeform spatial workspace"
+    },
+    {
+      "id": 165,
+      "slug": "mind-map-layout",
+      "name": "Mind-Map Layout",
+      "category": "Layout and composition",
+      "description": "Graph of connected hierarchical ideas"
+    },
+    {
+      "id": 166,
+      "slug": "motion-first-ui",
+      "name": "Motion-First UI",
+      "category": "Motion and interaction",
+      "description": "Purposeful animation defines the experience"
+    },
+    {
+      "id": 167,
+      "slug": "microinteraction-ui",
+      "name": "Microinteraction UI",
+      "category": "Motion and interaction",
+      "description": "Subtle state-change and feedback animations"
+    },
+    {
+      "id": 168,
+      "slug": "scrollytelling",
+      "name": "Scrollytelling",
+      "category": "Motion and interaction",
+      "description": "Motion reveals a narrative as user scrolls"
+    },
+    {
+      "id": 169,
+      "slug": "parallax-ui",
+      "name": "Parallax UI",
+      "category": "Motion and interaction",
+      "description": "Multiple layers scroll at different apparent speeds"
+    },
+    {
+      "id": 170,
+      "slug": "scroll-snap-ui",
+      "name": "Scroll-Snap UI",
+      "category": "Motion and interaction",
+      "description": "Scrolling locks to sectional anchors"
+    },
+    {
+      "id": 171,
+      "slug": "pinned-scroll-ui",
+      "name": "Pinned-Scroll UI",
+      "category": "Motion and interaction",
+      "description": "Sections remain sticky while content advances"
+    },
+    {
+      "id": 172,
+      "slug": "horizontal-scroll-ui",
+      "name": "Horizontal-Scroll UI",
+      "category": "Motion and interaction",
+      "description": "Navigation or sections scroll horizontally"
+    },
+    {
+      "id": 173,
+      "slug": "animated-gradient-ui",
+      "name": "Animated-Gradient UI",
+      "category": "Motion and interaction",
+      "description": "Soft color transitions shift over time"
+    },
+    {
+      "id": 174,
+      "slug": "hover-driven-ui",
+      "name": "Hover-Driven UI",
+      "category": "Motion and interaction",
+      "description": "Hover states reveal extra affordances"
+    },
+    {
+      "id": 175,
+      "slug": "magnetic-cursor-ui",
+      "name": "Magnetic-Cursor UI",
+      "category": "Motion and interaction",
+      "description": "Interactive elements respond to cursor proximity"
+    },
+    {
+      "id": 176,
+      "slug": "cursor-trail-ui",
+      "name": "Cursor-Trail UI",
+      "category": "Motion and interaction",
+      "description": "Visual particles or echoes follow the cursor"
+    },
+    {
+      "id": 177,
+      "slug": "marquee-ui",
+      "name": "Marquee UI",
+      "category": "Motion and interaction",
+      "description": "Ticker-like motion in a horizontal band"
+    },
+    {
+      "id": 178,
+      "slug": "reveal-on-scroll-ui",
+      "name": "Reveal-on-Scroll UI",
+      "category": "Motion and interaction",
+      "description": "Elements appear as they enter the viewport"
+    },
+    {
+      "id": 179,
+      "slug": "shape-morphing-ui",
+      "name": "Shape-Morphing UI",
+      "category": "Motion and interaction",
+      "description": "Forms smoothly transition between geometries"
+    },
+    {
+      "id": 180,
+      "slug": "particle-ui",
+      "name": "Particle UI",
+      "category": "Motion and interaction",
+      "description": "Generated moving field of tiny elements"
+    },
+    {
+      "id": 181,
+      "slug": "webgl-ui",
+      "name": "WebGL UI",
+      "category": "Motion and interaction",
+      "description": "GPU-accelerated canvas visualizations"
+    },
+    {
+      "id": 182,
+      "slug": "immersive-3d-ui",
+      "name": "Immersive 3D UI",
+      "category": "Motion and interaction",
+      "description": "Interactive volumetric scenes"
+    },
+    {
+      "id": 183,
+      "slug": "ar-overlay-ui",
+      "name": "AR Overlay UI",
+      "category": "Motion and interaction",
+      "description": "Contextual graphics over live camera views"
+    },
+    {
+      "id": 184,
+      "slug": "vr-ui",
+      "name": "VR UI",
+      "category": "Motion and interaction",
+      "description": "Interactive full virtual environment"
+    },
+    {
+      "id": 185,
+      "slug": "spatial-ui",
+      "name": "Spatial UI",
+      "category": "Motion and interaction",
+      "description": "Panels and objects situated in three dimensions"
+    },
+    {
+      "id": 186,
+      "slug": "voice-first-ui",
+      "name": "Voice-First UI",
+      "category": "Motion and interaction",
+      "description": "Conversation and voice commands dominate input"
+    },
+    {
+      "id": 187,
+      "slug": "gesture-controlled-ui",
+      "name": "Gesture-Controlled UI",
+      "category": "Motion and interaction",
+      "description": "Gesture-driven direct navigation"
+    },
+    {
+      "id": 188,
+      "slug": "drag-and-drop-ui",
+      "name": "Drag-and-Drop UI",
+      "category": "Motion and interaction",
+      "description": "Direct manipulation and repositioning objects"
+    },
+    {
+      "id": 189,
+      "slug": "gamified-ui",
+      "name": "Gamified UI",
+      "category": "Motion and interaction",
+      "description": "Play mechanics support product objectives"
+    },
+    {
+      "id": 190,
+      "slug": "physics-based-ui",
+      "name": "Physics-Based UI",
+      "category": "Motion and interaction",
+      "description": "Inertia spring collision and drag behaviors"
+    },
+    {
+      "id": 191,
+      "slug": "saas-dashboard-ui",
+      "name": "SaaS Dashboard UI",
+      "category": "Application archetypes",
+      "description": "Subscription software administration and metrics"
+    },
+    {
+      "id": 192,
+      "slug": "admin-panel-ui",
+      "name": "Admin Panel UI",
+      "category": "Application archetypes",
+      "description": "Back-office and system management"
+    },
+    {
+      "id": 193,
+      "slug": "analytics-ui",
+      "name": "Analytics UI",
+      "category": "Application archetypes",
+      "description": "Charts KPIs filters and measurable trends"
+    },
+    {
+      "id": 194,
+      "slug": "crm-ui",
+      "name": "CRM UI",
+      "category": "Application archetypes",
+      "description": "Customer records contact pipelines and sales tracking"
+    },
+    {
+      "id": 195,
+      "slug": "ai-chat-ui",
+      "name": "AI Chat UI",
+      "category": "Application archetypes",
+      "description": "Conversation-centric assistant application"
+    },
+    {
+      "id": 196,
+      "slug": "ai-agent-workspace-ui",
+      "name": "AI Agent Workspace UI",
+      "category": "Application archetypes",
+      "description": "Planning executing and reviewing agent tasks"
+    },
+    {
+      "id": 197,
+      "slug": "copilot-sidebar-ui",
+      "name": "Copilot Sidebar UI",
+      "category": "Application archetypes",
+      "description": "Contextual assistant docked alongside work"
+    },
+    {
+      "id": 198,
+      "slug": "developer-console-ui",
+      "name": "Developer Console UI",
+      "category": "Application archetypes",
+      "description": "API keys logs configuration and diagnostics"
+    },
+    {
+      "id": 199,
+      "slug": "visual-workflow-builder-ui",
+      "name": "Visual Workflow Builder UI",
+      "category": "Application archetypes",
+      "description": "Node-based drag-and-connect automations"
+    },
+    {
+      "id": 200,
+      "slug": "ecommerce-ui",
+      "name": "Ecommerce UI",
+      "category": "Application archetypes",
+      "description": "Product browsing conversion and checkout journeys"
+    },
+    {
+      "id": 201,
+      "slug": "marketplace-ui",
+      "name": "Marketplace UI",
+      "category": "Application archetypes",
+      "description": "Listings sellers buyers and discovery"
+    },
+    {
+      "id": 202,
+      "slug": "social-feed-ui",
+      "name": "Social Feed UI",
+      "category": "Application archetypes",
+      "description": "Post discovery comments and following"
+    },
+    {
+      "id": 203,
+      "slug": "streaming-platform-ui",
+      "name": "Streaming Platform UI",
+      "category": "Application archetypes",
+      "description": "Media catalogs and watch experiences"
+    },
+    {
+      "id": 204,
+      "slug": "fintech-ui",
+      "name": "Fintech UI",
+      "category": "Application archetypes",
+      "description": "Transactions balances and secure money management"
+    },
+    {
+      "id": 205,
+      "slug": "healthcare-ui",
+      "name": "Healthcare UI",
+      "category": "Application archetypes",
+      "description": "Clinical workflows and health information"
+    },
+    {
+      "id": 206,
+      "slug": "edtech-ui",
+      "name": "EdTech UI",
+      "category": "Application archetypes",
+      "description": "Lessons learner progress and assessment"
+    },
+    {
+      "id": 207,
+      "slug": "travel-booking-ui",
+      "name": "Travel Booking UI",
+      "category": "Application archetypes",
+      "description": "Search availability filtering and bookings"
+    },
+    {
+      "id": 208,
+      "slug": "news-portal-ui",
+      "name": "News Portal UI",
+      "category": "Application archetypes",
+      "description": "Article discovery and publishing interfaces"
+    },
+    {
+      "id": 209,
+      "slug": "portfolio-ui",
+      "name": "Portfolio UI",
+      "category": "Application archetypes",
+      "description": "Showcase projects and creative work"
+    },
+    {
+      "id": 210,
+      "slug": "creative-agency-ui",
+      "name": "Creative Agency UI",
+      "category": "Application archetypes",
+      "description": "Present services case studies and conversion"
+    },
+    {
+      "id": 211,
+      "slug": "material-3-expressive",
+      "name": "Material 3 Expressive",
+      "category": "Design systems",
+      "description": "Google's expressive Material Design direction"
+    },
+    {
+      "id": 212,
+      "slug": "material-you",
+      "name": "Material You",
+      "category": "Design systems",
+      "description": "Personalized color and component system from Google"
+    },
+    {
+      "id": 213,
+      "slug": "human-interface-guidelines",
+      "name": "Human Interface Guidelines",
+      "category": "Design systems",
+      "description": "Apple platform interaction and component guidance"
+    },
+    {
+      "id": 214,
+      "slug": "fluent-2",
+      "name": "Fluent 2",
+      "category": "Design systems",
+      "description": "Microsoft modern design system"
+    },
+    {
+      "id": 215,
+      "slug": "carbon-design-system",
+      "name": "Carbon Design System",
+      "category": "Design systems",
+      "description": "IBM enterprise design system"
+    },
+    {
+      "id": 216,
+      "slug": "ant-design",
+      "name": "Ant Design",
+      "category": "Design systems",
+      "description": "Enterprise React component design language"
+    },
+    {
+      "id": 217,
+      "slug": "polaris",
+      "name": "Polaris",
+      "category": "Design systems",
+      "description": "Shopify product and commerce design system"
+    },
+    {
+      "id": 218,
+      "slug": "primer",
+      "name": "Primer",
+      "category": "Design systems",
+      "description": "GitHub design system and primitives"
+    },
+    {
+      "id": 219,
+      "slug": "spectrum",
+      "name": "Spectrum",
+      "category": "Design systems",
+      "description": "Adobe design system for creative products"
+    },
+    {
+      "id": 220,
+      "slug": "atlassian-design-system",
+      "name": "Atlassian Design System",
+      "category": "Design systems",
+      "description": "Atlassian enterprise product guidelines"
+    }
+  ]
+}
